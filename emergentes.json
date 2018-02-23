@@ -5,8 +5,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.077310, 
-          "lon": -96.744401
+          "lat": 17.079300,  
+          "lon": -96.743629
         }
       }, 
       "id": 1, 
@@ -17,12 +17,12 @@
     {
       "anchor": {
         "geolocation": {
-           "lat": 17.077310, 
-          "lon": -96.744401
+            "lat": 17.079300,  
+          "lon": -96.743629
         }
       }, 
       "icon": {
-        "url": "emergentes1/punto.png"
+        "url": "emergentes1/angemon.jpg"
       }, 
       "id": 2, 
       "text": {
@@ -40,8 +40,8 @@
       ], 
       "anchor": {
         "geolocation": {
-           "lat": 17.077310, 
-          "lon": -96.744401
+           "lat": 17.079300,  
+          "lon": -96.743629
         }
       }, 
       "id": 3, 
